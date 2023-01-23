@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+#contenedor1{
+    border: 1px solid;
+    border-radius: 12px;
+    margin: 15px;
+}
+
+#fotow{
+    height: 85px;
+    width: 70px;
+}
